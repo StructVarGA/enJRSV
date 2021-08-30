@@ -11,3 +11,11 @@ Origins and evolutionary consequences of ancient endogenous retroviruses
 
 <img src="https://user-images.githubusercontent.com/35836126/131364179-a88945ea-b73b-4088-ad5b-1eedd9919779.png" width="600" height="400">
 
+## Scanning ERVs in populations
+
+Whole-genome comparison of endogenous retrovirus segregation across wild and domestic host species populations  
+  - https://www.pnas.org/content/115/43/11012
+
+
+
+
